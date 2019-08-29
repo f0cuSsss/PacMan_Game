@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PacMan_Game\PacMan_Game\bin\Debug\PacMan_Game.exe.config
+C:\Users\User\source\repos\PacMan_Game\PacMan_Game\bin\Debug\PacMan_Game.exe
+C:\Users\User\source\repos\PacMan_Game\PacMan_Game\bin\Debug\PacMan_Game.pdb
+C:\Users\User\source\repos\PacMan_Game\PacMan_Game\obj\Debug\PacMan_Game.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PacMan_Game\PacMan_Game\obj\Debug\PacMan_Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PacMan_Game\PacMan_Game\obj\Debug\PacMan_Game.exe
+C:\Users\User\source\repos\PacMan_Game\PacMan_Game\obj\Debug\PacMan_Game.pdb
